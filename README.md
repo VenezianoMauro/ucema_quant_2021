@@ -5,4 +5,4 @@ A medida que avancemos vamos a ir agregando material actualizado.
   
 ## Indice  
   * Optimización Portfolio - Prof. Julián Siri  
-  
+  * Gestión Riesgo - Emiliano Delfau
