@@ -13,4 +13,7 @@ A medida que avancemos vamos a ir agregando material actualizado.
 
   
 ## Código Alumnos  
+* Nico Pacheco - Descarga de data de Finvis   
+  
+  
 Si alguien quiere subir una notebook con fines explicativos, mande pr nomás.  
